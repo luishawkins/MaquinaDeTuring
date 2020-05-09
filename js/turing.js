@@ -25,7 +25,7 @@ $(function() {
 });
 
 /******************/
-/* CORE FUNCTIONS */
+/*  FUNCTIONS */
 /******************/
 
 function AddBlank(table) {
@@ -295,7 +295,7 @@ function SetMachine3() {
         'X': ['X', 4, -1],
         'Y': ['Y', 4, -1],
         'Z': ['Z', 4, -1],
-        'B': ['b', 0, 1]
+        'B': ['a', 0, 1]
     }
 
     Machines[3][5] = {
@@ -315,7 +315,7 @@ function SetMachine3() {
         'X': ['X', 6, -1],
         'Y': ['Y', 6, -1],
         'Z': ['Z', 6, -1],
-        'C': ['c', 0, 1]
+        'C': ['a', 0, 1]
     }
 
     Machines[3][7] = {

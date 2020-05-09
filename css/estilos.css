@@ -21,7 +21,7 @@
     --success: #28a745;
     --info: #17a2b8;
     --warning: #ffc107;
-    --danger: #dc3545;
+    --danger: #2a11bb;
     --light: #f8f9fa;
     --dark: #343a40;
     --breakpoint-xs: 0;
@@ -2686,7 +2686,7 @@ fieldset:disabled a.btn {
 
 .btn-danger:hover {
     color: #fff;
-    background-color: #c82333;
+    background-color: #4123c8;
     border-color: #bd2130;
 }
 
