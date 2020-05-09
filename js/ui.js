@@ -15,7 +15,7 @@ var Machines = {
 
 
 /****************/
-/* UI FUNCTIONS */
+/*  FUNCTIONS */
 /****************/
 
 $(function() {
