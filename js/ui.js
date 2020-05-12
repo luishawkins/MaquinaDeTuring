@@ -22,7 +22,7 @@ $(function() {
     Clear();
     ID = 3;
     ClearRows(3);
-    document.getElementById("etiqueta").innerText = "transformador";
+    document.getElementById("etiqueta").innerText = "Transformador_aaa";
 
     $('#elemento1').click(function() {
         ID = 1;
